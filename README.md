@@ -1,4 +1,4 @@
-# Deep Learning for Audio Classification: Music Genre Detection from Spectrograms
+# Music Genre Classification Using AI
 
 ## Overview
 
